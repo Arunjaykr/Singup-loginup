@@ -1,0 +1,5 @@
+Name: arunjay kumar, Gender: Male, Email: arunkumarnh22@gmail.com, Username: arunkr9097, Password: 12345
+Name: arun kumar, Gender: Male, Email: arunjaykr9097@gmail.com, Username: arunkr9097, Password: 123456
+Name: Ravinder kumar, Gender: Male, Email: ravinder3114@gmail.com, Username: ravi123, Password: 123456
+Name: Arunjay Kumar, Gender: Male, Email: arunkumarnh22@gmail.com, Username: arun@123, Password: 123456
+Name: Arunjay Kumar, Gender: Male, Email: arunkumarnh22@gmail.com, Username: arun@123, Password: 1234567
